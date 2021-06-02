@@ -1,4 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro2049&layout=compact&theme=gruvbox" />
+
 ### Hi there 👋
+
+> Astroworld
+
+Currently a Web developer!:flags:
 
 <!--
 **JerryAstro2049/JerryAstro2049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
