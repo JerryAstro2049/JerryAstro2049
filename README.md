@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro2049&layout=compact&theme=gruvbox" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro2049&layout=compact&theme=gruvbox&exclude_repo=Raft-study" />
 
 ### Hi there 👋
 
